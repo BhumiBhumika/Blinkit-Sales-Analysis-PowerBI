@@ -1,7 +1,15 @@
 # 📊 Blinkit Sales Analysis Dashboard
 
 ## 📌 Project Overview
-This project presents an interactive Power BI dashboard built to analyze Blinkit sales performance. It provides insights into sales trends, outlet performance, customer ratings, and product categories using interactive visualizations.
+This project is an interactive Power BI dashboard developed to analyze Blinkit sales performance. It provides valuable insights into sales trends, outlet performance, customer ratings, and product categories through interactive visualizations and filters.
+
+## 📷 Dashboard Preview
+
+![Dashboard](Dashboard.jfif)
+
+> **Note:** If your uploaded image name is `dashboard.png`, replace the above line with:
+>
+> `![Dashboard](dashboard.png)`
 
 ## 🚀 Dashboard Features
 - Total Sales KPI
@@ -23,24 +31,16 @@ This project presents an interactive Power BI dashboard built to analyze Blinkit
 - DAX
 - Microsoft Excel
 
-## 📷 Dashboard Preview
-
-> Upload your dashboard screenshot in this repository as **dashboard.png** and replace the line below with:
-
-```markdown
-![Dashboard](Dashboard.jfif)
-```
-
 ## 📈 Key Insights
 - Tier 3 outlets generated the highest sales.
 - Supermarket Type 1 contributed the highest revenue.
-- Regular fat products accounted for the majority of sales.
+- Regular Fat products accounted for the majority of sales.
 - Sales peaked around 2018.
 
 ## 📂 Files Included
 - Blinkit Dashboard.pbix
 - Blinkit Dataset.xlsx
-- dashboard.png
+- Dashboard.jfif (or dashboard.png)
 - README.md
 
 ## 🎯 Skills Demonstrated
