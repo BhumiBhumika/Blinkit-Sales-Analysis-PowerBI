@@ -28,7 +28,7 @@ This project presents an interactive Power BI dashboard built to analyze Blinkit
 > Upload your dashboard screenshot in this repository as **dashboard.png** and replace the line below with:
 
 ```markdown
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.jfif)
 ```
 
 ## 📈 Key Insights
